@@ -1,0 +1,19 @@
+table{
+    width: 80%;
+    border-collapse: collapse;
+    background-color: beige;
+    margin: 0 auto;
+    border: solid 1px #ccc;
+}
+th{
+    background-color: rgb(129, 129, 216);
+    font-weight: bold;
+    padding: 10px 0;
+    color: white;
+    border: solid 1px #ccc;
+}
+tr,td{
+    border: solid 1px #ccc;
+    text-align: center;
+    padding: 10px 0;
+}
